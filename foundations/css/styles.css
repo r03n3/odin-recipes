@@ -1,7 +1,7 @@
 .styleme{
     font-size: 32px;
     color: white;
-    align-content: center;
+    text-align: center;
     font-weight: bold;
     background-color: red;
 }
