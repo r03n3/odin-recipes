@@ -3,7 +3,7 @@
     font-family: "Verdana", "Dejavu Sans", sans-serif;
 }
 
-.secondelement{
+#secondelement{
     color: blue;
     font-size: 36px;
 }
@@ -12,7 +12,7 @@
     font-size: 24px;
 }
 
-.fourthelement{
+#fourthelement{
     background-color: lightgreen;
     font-size: 24px;
     font-weight: bold;
